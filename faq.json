@@ -1,0 +1,638 @@
+{
+  "en":{
+    "coverage": [
+      {
+        "question": "What does my policy cover?",
+        "answer": "Coverage varies by policy but may include damage, theft, illness, or liability depending on the type."
+      },
+      {
+        "question": "Are pre-existing conditions covered?",
+        "answer": "Some policies may exclude pre-existing conditions or require waiting periods."
+      },
+      {
+        "question": "Does coverage start immediately?",
+        "answer": "Some policies start immediately, while others have a waiting period."
+      },
+      {
+        "question": "What is not covered by insurance?",
+        "answer": "Common exclusions include intentional damage, fraud, or non-covered services."
+      },
+      {
+        "question": "Can I customize my coverage?",
+        "answer": "Many insurers allow you to add riders or endorsements to customize your coverage."
+      },
+      {
+        "question": "Is natural disaster damage covered?",
+        "answer": "It depends on your policy. Some require an additional rider for disasters like floods or earthquakes."
+      },
+      {
+        "question": "Does my policy cover travel abroad?",
+        "answer": "Travel coverage is not always included and may require a special rider or policy."
+      },
+      {
+        "question": "Are family members covered under my policy?",
+        "answer": "Some policies allow dependents to be added; check your policy details."
+      },
+      {
+        "question": "Can I increase my coverage amount?",
+        "answer": "Yes, you may request a coverage increase, subject to approval and possibly a premium change."
+      },
+      {
+        "question": "What is comprehensive coverage?",
+        "answer": "Comprehensive coverage typically protects against non-collision damage like theft or fire."
+      }
+    ],
+    "general": [
+      {
+        "question": "What is insurance?",
+        "answer": "Insurance is a financial product that provides protection against financial loss in exchange for regular premium payments."
+      },
+      {
+        "question": "Why do I need insurance?",
+        "answer": "Insurance helps protect you from unexpected financial burdens due to accidents, illness, or damage to property."
+      },
+      {
+        "question": "How do I choose the right insurance plan?",
+        "answer": "Consider your needs, compare plans, check coverage options, and read reviews or consult an advisor."
+      },
+      {
+        "question": "Can I have multiple insurance policies?",
+        "answer": "Yes, you can hold multiple insurance policies to cover different risks or needs."
+      },
+      {
+        "question": "What is a premium?",
+        "answer": "A premium is the amount you pay for your insurance policy, typically monthly or annually."
+      },
+      {
+        "question": "What is a deductible?",
+        "answer": "A deductible is the amount you pay out-of-pocket before your insurance coverage starts."
+      },
+      {
+        "question": "Is insurance mandatory?",
+        "answer": "Some types of insurance, like auto insurance, are mandatory in many regions."
+      },
+      {
+        "question": "What is a policy term?",
+        "answer": "A policy term is the length of time your insurance policy is in effect."
+      },
+      {
+        "question": "Can I cancel my insurance policy?",
+        "answer": "Yes, you can usually cancel a policy at any time, but cancellation terms may apply."
+      },
+      {
+        "question": "What happens if I miss a payment?",
+        "answer": "Missing a payment may result in a lapse in coverage or policy cancellation."
+      }
+    ],
+    "policymanagement": [
+      {
+        "question": "How do I update my personal information?",
+        "answer": "You can usually update your info online or by contacting customer service."
+      },
+      {
+        "question": "Can I change my policy coverage?",
+        "answer": "Yes, you may request changes to your policy, which may affect your premium."
+      },
+      {
+        "question": "How do I add or remove a beneficiary?",
+        "answer": "Submit a beneficiary change form through your account or customer service."
+      },
+      {
+        "question": "When can I renew my policy?",
+        "answer": "Most policies notify you 30–60 days before expiration with renewal instructions."
+      },
+      {
+        "question": "Can I transfer my policy to someone else?",
+        "answer": "Most policies are non-transferable, but exceptions may apply depending on the type."
+      },
+      {
+        "question": "How do I cancel my policy?",
+        "answer": "Contact your insurer to submit a cancellation request; some may require written notice."
+      },
+      {
+        "question": "Can I reinstate a lapsed policy?",
+        "answer": "Reinstatement may be possible within a certain timeframe and may require underwriting."
+      },
+      {
+        "question": "How do I get a copy of my policy?",
+        "answer": "You can download it from your account or request a physical copy from customer service."
+      },
+      {
+        "question": "What is policy endorsement?",
+        "answer": "An endorsement is an amendment that changes or adds to your policy coverage."
+      },
+      {
+        "question": "Can I manage my policy online?",
+        "answer": "Yes, most insurers offer online policy management through a secure portal."
+      }
+    ],
+    "payments": [
+      {
+        "question": "How do I pay my insurance premium?",
+        "answer": "You can pay online, through mobile apps, via bank transfer, or in person at select locations."
+      },
+      {
+        "question": "Can I change my payment method?",
+        "answer": "Yes, most insurers allow you to update your payment method in your account settings."
+      },
+      {
+        "question": "Is auto-pay available?",
+        "answer": "Yes, you can usually enable automatic payments for your premiums."
+      },
+      {
+        "question": "What happens if I miss a premium payment?",
+        "answer": "Your coverage may lapse or be canceled after a grace period if payment is not received."
+      },
+      {
+        "question": "Is there a grace period for late payments?",
+        "answer": "Most policies offer a short grace period, typically 15–30 days."
+      },
+      {
+        "question": "Can I pay for the entire year upfront?",
+        "answer": "Yes, many insurers allow full annual payments, often with a discount."
+      },
+      {
+        "question": "Will I get a payment receipt?",
+        "answer": "Yes, receipts are usually provided via email or downloadable from your account."
+      },
+      {
+        "question": "Are there any hidden fees?",
+        "answer": "Most reputable insurers are transparent, but check for service or late fees in your policy."
+      },
+      {
+        "question": "Can I pause my premium payments?",
+        "answer": "Generally, no, but some insurers may offer hardship options or temporary relief."
+      },
+      {
+        "question": "Are online payments secure?",
+        "answer": "Yes, most insurance portals use secure encryption for online transactions."
+      }
+    ],
+    "claims": [
+      {
+        "question": "How do I file a claim?",
+        "answer": "You can usually file a claim online, via mobile app, or by calling customer service."
+      },
+      {
+        "question": "What documents are needed to file a claim?",
+        "answer": "You may need your policy number, proof of loss, ID, and any relevant receipts or photos."
+      },
+      {
+        "question": "How long does it take to process a claim?",
+        "answer": "Claim processing times vary, but many are resolved within 7–30 days."
+      },
+      {
+        "question": "Can my claim be denied?",
+        "answer": "Yes, claims may be denied for reasons like lack of coverage, fraud, or missing documentation."
+      },
+      {
+        "question": "How will I receive my claim payment?",
+        "answer": "Payments are typically made via direct deposit or check."
+      },
+      {
+        "question": "Can I appeal a denied claim?",
+        "answer": "Yes, you can request a review or appeal with supporting documentation."
+      },
+      {
+        "question": "Do I need to pay upfront for services before claiming?",
+        "answer": "It depends on the policy. Some require upfront payment, while others offer direct billing."
+      },
+      {
+        "question": "How do I track my claim status?",
+        "answer": "Log in to your account online or contact customer service to track your claim."
+      },
+      {
+        "question": "Is there a time limit to file a claim?",
+        "answer": "Yes, most policies have a deadline for claim submission. Check your policy terms."
+      },
+      {
+        "question": "Will filing a claim increase my premium?",
+        "answer": "In some cases, filing claims may lead to higher premiums during renewal."
+      }
+    ]
+  },
+  "es": {
+    "cobertura": [
+      {
+        "question": "¿Qué cubre mi póliza?",
+        "answer": "La cobertura varía según la póliza, pero puede incluir daños, robo, enfermedad o responsabilidad civil según el tipo."
+      },
+      {
+        "question": "¿Están cubiertas las condiciones preexistentes?",
+        "answer": "Algunas pólizas pueden excluir condiciones preexistentes o requerir períodos de espera."
+      },
+      {
+        "question": "¿La cobertura comienza de inmediato?",
+        "answer": "Algunas pólizas comienzan de inmediato, mientras que otras tienen un período de espera."
+      },
+      {
+        "question": "¿Qué no cubre el seguro?",
+        "answer": "Las exclusiones comunes incluyen daños intencionales, fraude o servicios no cubiertos."
+      },
+      {
+        "question": "¿Puedo personalizar mi cobertura?",
+        "answer": "Muchas aseguradoras te permiten agregar cláusulas adicionales o endosos para personalizar tu cobertura."
+      },
+      {
+        "question": "¿Están cubiertos los daños por desastres naturales?",
+        "answer": "Depende de su póliza. Algunos requieren una cláusula adicional para desastres como inundaciones o terremotos."
+      },
+      {
+        "question": "¿Mi póliza cubre viajes al extranjero?",
+        "answer": "La cobertura de viaje no siempre está incluida y puede requerir una cláusula adicional o una póliza especial."
+      },
+      {
+        "question": "¿Los miembros de mi familia están cubiertos por mi póliza?",
+        "answer": "Algunas políticas permiten que se agreguen dependientes; Revisa los detalles de tu póliza."
+      },
+      {
+        "question": "¿Puedo aumentar el monto de mi cobertura?",
+        "answer": "Sí, puede solicitar un aumento de cobertura, sujeto a aprobación y posiblemente a un cambio en la prima."
+      },
+      {
+        "question": "¿Qué es la cobertura integral?",
+        "answer": "La cobertura integral generalmente protege contra daños no relacionados con colisiones, como robo o incendio."
+      }
+    ],
+    "general": [
+      {
+        "question": "¿Qué es un seguro?",
+        "answer": "El seguro es un producto financiero que brinda protección contra pérdidas financieras a cambio de pagos regulares de primas."
+      },
+      {
+        "question": "¿Por qué necesito un seguro?",
+        "answer": "El seguro ayuda a protegerlo de cargas financieras inesperadas debido a accidentes, enfermedades o daños a la propiedad."
+      },
+      {
+        "question": "¿Cómo elijo el plan de seguro adecuado?",
+        "answer": "Considere sus necesidades, compare planes, verifique las opciones de cobertura y lea las reseñas o consulte a un asesor."
+      },
+      {
+        "question": "¿Puedo tener varias pólizas de seguro?",
+        "answer": "Sí, puede tener varias pólizas de seguro para cubrir diferentes riesgos o necesidades."
+      },
+      {
+        "question": "¿Qué es una prima?",
+        "answer": "Una prima es la cantidad que pagas por tu póliza de seguro, generalmente mensual o anualmente."
+      },
+      {
+        "question": "¿Qué es un deducible?",
+        "answer": "Un deducible es la cantidad que pagas de tu bolsillo antes de que comience tu cobertura de seguro."
+      },
+      {
+        "question": "¿Es obligatorio el seguro?",
+        "answer": "Algunos tipos de seguros, como el seguro de automóvil, son obligatorios en muchas regiones."
+      },
+      {
+        "question": "¿Qué es un término de póliza?",
+        "answer": "El plazo de una póliza es el período de tiempo que su póliza de seguro está en vigor."
+      },
+      {
+        "question": "¿Puedo cancelar mi póliza de seguro?",
+        "answer": "Sí, por lo general puede cancelar una póliza en cualquier momento, pero es posible que se apliquen términos de cancelación."
+      },
+      {
+        "question": "¿Qué sucede si me olvido de un pago?",
+        "answer": "La falta de un pago puede resultar en un lapso en la cobertura o la cancelación de la póliza."
+      }
+    ],
+    "gestión_de_pólizas": [
+      {
+        "question": "¿Cómo actualizo mi información personal?",
+        "answer": "Por lo general, puede actualizar su información en línea o poniéndose en contacto con el servicio de atención al cliente."
+      },
+      {
+        "question": "¿Puedo cambiar la cobertura de mi póliza?",
+        "answer": "Sí, puede solicitar cambios en su póliza, lo que puede afectar su prima."
+      },
+      {
+        "question": "¿Cómo agrego o elimino un beneficiario?",
+        "answer": "Envíe un formulario de cambio de beneficiario a través de su cuenta o servicio al cliente."
+      },
+      {
+        "question": "¿Cuándo puedo renovar mi póliza?",
+        "answer": "La mayoría de las pólizas le notifican entre 30 y 60 días antes del vencimiento con instrucciones de renovación."
+      },
+      {
+        "question": "¿Puedo transferir mi póliza a otra persona?",
+        "answer": "La mayoría de las pólizas son intransferibles, pero se pueden aplicar excepciones según el tipo."
+      },
+      {
+        "question": "¿Cómo cancelo mi póliza?",
+        "answer": "Póngase en contacto con su aseguradora para presentar una solicitud de cancelación; Algunos pueden requerir notificación por escrito."
+      },
+      {
+        "question": "¿Puedo restablecer una póliza caducada?",
+        "answer": "El restablecimiento puede ser posible dentro de un cierto período de tiempo y puede requerir suscripción."
+      },
+      {
+        "question": "¿Cómo obtengo una copia de mi póliza?",
+        "answer": "Puede descargarlo desde su cuenta o solicitar una copia física al servicio de atención al cliente."
+      },
+      {
+        "question": "¿Qué es el endoso de pólizas?",
+        "answer": "Un endoso es una enmienda que cambia o agrega a la cobertura de su póliza."
+      },
+      {
+        "question": "¿Puedo gestionar mi póliza en línea?",
+        "answer": "Sí, la mayoría de las aseguradoras ofrecen gestión de pólizas en línea a través de un portal seguro."
+      }
+    ],
+    "pagos": [
+      {
+        "question": "¿Cómo pago la prima de mi seguro?",
+        "answer": "Puede pagar en línea, a través de aplicaciones móviles, mediante transferencia bancaria o en persona en ubicaciones seleccionadas."
+      },
+      {
+        "question": "¿Puedo cambiar mi método de pago?",
+        "answer": "Sí, la mayoría de las aseguradoras te permiten actualizar tu método de pago en la configuración de tu cuenta."
+      },
+      {
+        "question": "¿Está disponible el pago automático?",
+        "answer": "Sí, por lo general puede habilitar los pagos automáticos de sus primas."
+      },
+      {
+        "question": "¿Qué sucede si me olvido de pagar una prima?",
+        "answer": "Su cobertura puede caducar o cancelarse después de un período de gracia si no se recibe el pago."
+      },
+      {
+        "question": "¿Existe un período de gracia para los pagos atrasados?",
+        "answer": "La mayoría de las pólizas ofrecen un período de gracia corto, generalmente de 15 a 30 días."
+      },
+      {
+        "question": "¿Puedo pagar todo el año por adelantado?",
+        "answer": "Sí, muchas aseguradoras permiten pagos anuales completos, a menudo con un descuento."
+      },
+      {
+        "question": "¿Recibiré un recibo de pago?",
+        "answer": "Sí, los recibos generalmente se proporcionan por correo electrónico o se pueden descargar desde su cuenta."
+      },
+      {
+        "question": "¿Hay tarifas ocultas?",
+        "answer": "La mayoría de las aseguradoras de buena reputación son transparentes, pero verifique si hay cargos por servicio o pagos atrasados en su póliza."
+      },
+      {
+        "question": "¿Puedo pausar los pagos de mis primas?",
+        "answer": "Por lo general, no, pero algunas aseguradoras pueden ofrecer opciones de dificultades económicas o alivio temporal."
+      },
+      {
+        "question": "¿Son seguros los pagos en línea?",
+        "answer": "Sí, la mayoría de los portales de seguros utilizan un cifrado seguro para las transacciones en línea."
+      }
+    ],
+    "reclamaciones": [
+      {
+        "question": "¿Cómo presento una reclamación?",
+        "answer": "Por lo general, puede presentar un reclamo en línea, a través de la aplicación móvil o llamando al servicio de atención al cliente."
+      },
+      {
+        "question": "¿Qué documentos se necesitan para presentar una reclamación?",
+        "answer": "Es posible que necesite su número de póliza, prueba de pérdida, identificación y cualquier recibo o foto relevante."
+      },
+      {
+        "question": "¿Cuánto tiempo se tarda en tramitar una reclamación?",
+        "answer": "Los tiempos de procesamiento de las reclamaciones varían, pero muchos se resuelven en un plazo de 7 a 30 días."
+      },
+      {
+        "question": "¿Se puede denegar mi reclamo?",
+        "answer": "Sí, las reclamaciones pueden ser denegadas por razones como falta de cobertura, fraude o falta de documentación."
+      },
+      {
+        "question": "¿Cómo recibiré el pago de mi reclamo?",
+        "answer": "Los pagos generalmente se realizan a través de depósito directo o cheque."
+      },
+      {
+        "question": "¿Puedo apelar una reclamación denegada?",
+        "answer": "Sí, puede solicitar una revisión o apelación con documentación de respaldo."
+      },
+      {
+        "question": "¿Necesito pagar por adelantado por los servicios antes de reclamar?",
+        "answer": "Depende de la política. Algunos requieren pago por adelantado, mientras que otros ofrecen facturación directa."
+      },
+      {
+        "question": "¿Cómo puedo rastrear el estado de mi reclamo?",
+        "answer": "Inicie sesión en su cuenta en línea o comuníquese con el servicio de atención al cliente para realizar un seguimiento de su reclamo."
+      },
+      {
+        "question": "¿Hay un límite de tiempo para presentar un reclamo?",
+        "answer": "Sí, la mayoría de las pólizas tienen una fecha límite para la presentación de reclamos. Revisa los términos de tu póliza."
+      },
+      {
+        "question": "¿Presentar un reclamo aumentará mi prima?",
+        "answer": "En algunos casos, la presentación de reclamaciones puede dar lugar a primas más altas durante la renovación."
+      }
+    ]
+  },
+  "hi": {
+    "कवरेज": [
+      {
+        "question": "मेरी पॉलिसी में क्या कवर किया जाता है?",
+        "answer": "कवरेज पॉलिसी द्वारा भिन्न होता है लेकिन इसमें प्रकार के आधार पर क्षति, चोरी, बीमारी या देयता शामिल हो सकती है।"
+      },
+      {
+        "question": "क्या पहले से मौजूद स्थितियों को कवर किया गया है?",
+        "answer": "कुछ पॉलिसियों में पहले से मौजूद स्थितियों को शामिल नहीं किया जा सकता है या प्रतीक्षा अवधि की आवश्यकता हो सकती है।"
+      },
+      {
+        "question": "क्या कवरेज तुरंत शुरू होता है?",
+        "answer": "कुछ नीतियां तुरंत शुरू होती हैं, जबकि अन्य की प्रतीक्षा अवधि होती है।"
+      },
+      {
+        "question": "बीमा द्वारा क्या कवर नहीं किया जाता है?",
+        "answer": "सामान्य बहिष्करण में जानबूझकर क्षति, धोखाधड़ी या गैर-कवर सेवाएं शामिल हैं।"
+      },
+      {
+        "question": "क्या मैं अपने कवरेज को कस्टमाइज़ कर सकता हूं?",
+        "answer": "कई बीमाकर्ता आपको अपने कवरेज को अनुकूलित करने के लिए सवार या विज्ञापन जोड़ने की अनुमति देते हैं।"
+      },
+      {
+        "question": "क्या प्राकृतिक आपदा क्षति को कवर किया गया है?",
+        "answer": "यह आपकी पॉलिसी पर निर्भर करता है। कुछ को बाढ़ या भूकंप जैसी आपदाओं के लिए अतिरिक्त राइडर की आवश्यकता होती है।"
+      },
+      {
+        "question": "क्या मेरी पॉलिसी विदेश यात्रा को कवर करती है?",
+        "answer": "यात्रा कवरेज हमेशा शामिल नहीं होता है और इसके लिए एक विशेष राइडर या पॉलिसी की आवश्यकता हो सकती है।"
+      },
+      {
+        "question": "क्या परिवार के सदस्य मेरी पॉलिसी के तहत कवर किए गए हैं?",
+        "answer": "कुछ नीतियां आश्रितों को जोड़ने की अनुमति देती हैं; अपनी पॉलिसी का विवरण चेक करें."
+      },
+      {
+        "question": "क्या मैं अपनी कवरेज राशि बढ़ा सकता/सकती हूं?",
+        "answer": "हां, आप कवरेज वृद्धि का अनुरोध कर सकते हैं, अनुमोदन और संभवतः प्रीमियम परिवर्तन के अधीन।"
+      },
+      {
+        "question": "कॉम्प्रिहेंसिव कवरेज क्या है?",
+        "answer": "व्यापक कवरेज आमतौर पर चोरी या आग जैसी गैर-टक्कर क्षति से बचाता है।"
+      }
+    ],
+    "सामान्य": [
+      {
+        "question": "बीमा क्या है?",
+        "answer": "बीमा एक वित्तीय उत्पाद है जो नियमित प्रीमियम भुगतान के बदले वित्तीय नुकसान से सुरक्षा प्रदान करता है।"
+      },
+      {
+        "question": "मुझे बीमा की आवश्यकता क्यों है?",
+        "answer": "बीमा आपको दुर्घटनाओं, बीमारी या संपत्ति के नुकसान के कारण अप्रत्याशित वित्तीय बोझ से बचाने में मदद करता है।"
+      },
+      {
+        "question": "मैं सही बीमा योजना कैसे चुनूं?",
+        "answer": "अपनी आवश्यकताओं पर विचार करें, योजनाओं की तुलना करें, कवरेज विकल्पों की जांच करें और समीक्षाएं पढ़ें या सलाहकार से परामर्श करें।"
+      },
+      {
+        "question": "क्या मेरे पास कई बीमा पॉलिसी हो सकती हैं?",
+        "answer": "हां, आप विभिन्न जोखिमों या जरूरतों को पूरा करने के लिए कई बीमा पॉलिसी रख सकते हैं।"
+      },
+      {
+        "question": "प्रीमियम क्या है?",
+        "answer": "प्रीमियम वह राशि है जो आप अपनी बीमा पॉलिसी के लिए भुगतान करते हैं, आमतौर पर मासिक या वार्षिक।"
+      },
+      {
+        "question": "डिडक्टिबल क्या है?",
+        "answer": "एक कटौती योग्य वह राशि है जिसका भुगतान आप अपने बीमा कवरेज शुरू होने से पहले जेब से करते हैं।"
+      },
+      {
+        "question": "क्या बीमा अनिवार्य है?",
+        "answer": "कुछ प्रकार के बीमा, जैसे ऑटो बीमा, कई क्षेत्रों में अनिवार्य हैं।"
+      },
+      {
+        "question": "पॉलिसी अवधि क्या है?",
+        "answer": "एक पॉलिसी अवधि आपकी बीमा पॉलिसी के प्रभावी होने की अवधि है।"
+      },
+      {
+        "question": "क्या मैं अपनी बीमा पॉलिसी रद्द कर सकता हूं?",
+        "answer": "हां, आप आमतौर पर किसी भी समय पॉलिसी रद्द कर सकते हैं, लेकिन रद्द करने की शर्तें लागू हो सकती हैं।"
+      },
+      {
+        "question": "अगर मेरा भुगतान छूट जाए तो क्या होगा?",
+        "answer": "भुगतान छूटने के परिणामस्वरूप कवरेज में चूक हो सकती है या पॉलिसी रद्द हो सकती है।"
+      }
+    ],
+    "नीति_प्रबंधन": [
+      {
+        "question": "मैं अपनी व्यक्तिगत जानकारी कैसे अपडेट करूं?",
+        "answer": "आप आमतौर पर अपनी जानकारी ऑनलाइन या ग्राहक सेवा से संपर्क करके अपडेट कर सकते हैं।"
+      },
+      {
+        "question": "क्या मैं अपनी पॉलिसी कवरेज बदल सकता/सकती हूं?",
+        "answer": "हां, आप अपनी पॉलिसी में बदलाव का अनुरोध कर सकते हैं, जो आपके प्रीमियम को प्रभावित कर सकता है।"
+      },
+      {
+        "question": "मैं किसी लाभार्थी को कैसे जोड़ूँ या निकालूँ?",
+        "answer": "अपने खाते या ग्राहक सेवा के माध्यम से लाभार्थी परिवर्तन फ़ॉर्म जमा करें।"
+      },
+      {
+        "question": "मैं अपनी पॉलिसी कब रिन्यू कर सकता/सकती हूं?",
+        "answer": "अधिकांश नीतियां नवीनीकरण निर्देशों के साथ समाप्ति से 30-60 दिन पहले आपको सूचित करती हैं।"
+      },
+      {
+        "question": "क्या मैं अपनी पॉलिसी किसी और को ट्रांसफर कर सकता/सकती हूं?",
+        "answer": "अधिकांश नीतियां गैर-हस्तांतरणीय हैं, लेकिन प्रकार के आधार पर अपवाद लागू हो सकते हैं।"
+      },
+      {
+        "question": "मैं अपनी पॉलिसी कैसे रद्द करूं?",
+        "answer": "रद्दीकरण अनुरोध सबमिट करने के लिए अपने बीमाकर्ता से संपर्क करें; कुछ को लिखित सूचना की आवश्यकता हो सकती है।"
+      },
+      {
+        "question": "क्या मैं लैप्स हो चुकी पॉलिसी को बहाल कर सकता/सकती हूं?",
+        "answer": "एक निश्चित समय सीमा के भीतर बहाली संभव हो सकती है और इसके लिए हामीदारी की आवश्यकता हो सकती है।"
+      },
+      {
+        "question": "मैं अपनी पॉलिसी की कॉपी कैसे प्राप्त करूं?",
+        "answer": "आप इसे अपने खाते से डाउनलोड कर सकते हैं या ग्राहक सेवा से भौतिक प्रतिलिपि का अनुरोध कर सकते हैं।"
+      },
+      {
+        "question": "नीति समर्थन क्या है?",
+        "answer": "एक एंडोर्समेंट एक संशोधन है जो आपकी पॉलिसी कवरेज में परिवर्तन या जोड़ता है।"
+      },
+      {
+        "question": "क्या मैं अपनी पॉलिसी ऑनलाइन मैनेज कर सकता/सकती हूं?",
+        "answer": "हां, अधिकांश बीमाकर्ता एक सुरक्षित पोर्टल के माध्यम से ऑनलाइन पॉलिसी प्रबंधन प्रदान करते हैं।"
+      }
+    ],
+    "भुगतान": [
+      {
+        "question": "मैं अपने बीमा प्रीमियम का भुगतान कैसे करूं?",
+        "answer": "आप ऑनलाइन, मोबाइल ऐप के माध्यम से, बैंक हस्तांतरण के माध्यम से, या चुनिंदा स्थानों पर व्यक्तिगत रूप से भुगतान कर सकते हैं।"
+      },
+      {
+        "question": "क्या मैं अपनी भुगतान विधि बदल सकता हूं?",
+        "answer": "हां, अधिकांश बीमाकर्ता आपको अपनी खाता सेटिंग में अपनी भुगतान विधि अपडेट करने की अनुमति देते हैं।"
+      },
+      {
+        "question": "क्या ऑटो-पे उपलब्ध है?",
+        "answer": "हां, आप आमतौर पर अपने प्रीमियम के लिए स्वचालित भुगतान सक्षम कर सकते हैं।"
+      },
+      {
+        "question": "अगर मैं प्रीमियम भुगतान करने से चूक जाऊं तो क्या होगा?",
+        "answer": "भुगतान प्राप्त नहीं होने पर आपका कवरेज समाप्त हो सकता है या छूट अवधि के बाद रद्द किया जा सकता है।"
+      },
+      {
+        "question": "क्या देर से भुगतान के लिए कोई ग्रेस पीरियड है?",
+        "answer": "अधिकांश नीतियां एक छोटी छूट अवधि प्रदान करती हैं, आमतौर पर 15-30 दिन।"
+      },
+      {
+        "question": "क्या मैं पूरे वर्ष के लिए अग्रिम भुगतान कर सकता हूं?",
+        "answer": "हां, कई बीमाकर्ता पूर्ण वार्षिक भुगतान की अनुमति देते हैं, अक्सर छूट के साथ।"
+      },
+      {
+        "question": "क्या मुझे भुगतान रसीद मिलेगी?",
+        "answer": "हां, रसीदें आमतौर पर ईमेल के माध्यम से प्रदान की जाती हैं या आपके खाते से डाउनलोड की जा सकती हैं।"
+      },
+      {
+        "question": "क्या कोई छिपी हुई फीस है?",
+        "answer": "अधिकांश प्रतिष्ठित बीमाकर्ता पारदर्शी होते हैं, लेकिन अपनी पॉलिसी में सेवा या विलंब शुल्क की जांच करते हैं।"
+      },
+      {
+        "question": "क्या मैं अपने प्रीमियम भुगतान को रोक सकता हूं?",
+        "answer": "आम तौर पर, नहीं, लेकिन कुछ बीमाकर्ता कठिनाई विकल्प या अस्थायी राहत प्रदान कर सकते हैं।"
+      },
+      {
+        "question": "क्या ऑनलाइन भुगतान सुरक्षित हैं?",
+        "answer": "हां, अधिकांश बीमा पोर्टल ऑनलाइन लेनदेन के लिए सुरक्षित एन्क्रिप्शन का उपयोग करते हैं।"
+      }
+    ],
+    "दावा": [
+      {
+        "question": "मैं क्लेम कैसे फाइल करूं?",
+        "answer": "आप आमतौर पर ऑनलाइन, मोबाइल ऐप के माध्यम से या ग्राहक सेवा को कॉल करके दावा दायर कर सकते हैं।"
+      },
+      {
+        "question": "दावा दायर करने के लिए किन दस्तावेजों की आवश्यकता है?",
+        "answer": "आपको अपने पॉलिसी नंबर, नुकसान का प्रमाण, आईडी और किसी भी प्रासंगिक रसीद या फोटो की आवश्यकता हो सकती है।"
+      },
+      {
+        "question": "क्लेम प्रोसेस करने में कितना समय लगता है?",
+        "answer": "क्लेम प्रोसेसिंग का समय अलग-अलग होता है, लेकिन कई का समाधान 7-30 दिनों के भीतर हो जाता है।"
+      },
+      {
+        "question": "क्या मेरे दावे को अस्वीकार किया जा सकता है?",
+        "answer": "हां, कवरेज की कमी, धोखाधड़ी या लापता दस्तावेज जैसे कारणों से दावों को अस्वीकार किया जा सकता है।"
+      },
+      {
+        "question": "मुझे अपना क्लेम भुगतान कैसे प्राप्त होगा?",
+        "answer": "भुगतान आमतौर पर प्रत्यक्ष जमा या चेक के माध्यम से किया जाता है।"
+      },
+      {
+        "question": "क्या मैं अस्वीकृत दावे के खिलाफ अपील कर सकता/सकती हूं?",
+        "answer": "हां, आप सहायक दस्तावेज़ीकरण के साथ समीक्षा या अपील का अनुरोध कर सकते हैं।"
+      },
+      {
+        "question": "क्या मुझे दावा करने से पहले सेवाओं के लिए अग्रिम भुगतान करने की आवश्यकता है?",
+        "answer": "यह नीति पर निर्भर करता है। कुछ को अग्रिम भुगतान की आवश्यकता होती है, जबकि अन्य सीधे बिलिंग प्रदान करते हैं।"
+      },
+      {
+        "question": "मैं अपने दावे की स्थिति को कैसे ट्रैक करूं?",
+        "answer": "अपने खाते में ऑनलाइन लॉग इन करें या अपने दावे को ट्रैक करने के लिए ग्राहक सेवा से संपर्क करें।"
+      },
+      {
+        "question": "क्या दावा दायर करने की कोई समय सीमा है?",
+        "answer": "हां, अधिकांश पॉलिसियों में दावा जमा करने की समय सीमा होती है। अपनी पॉलिसी की शर्तों की जाँच करें।"
+      },
+      {
+        "question": "क्या क्लेम फाइल करने से मेरा प्रीमियम बढ़ जाएगा?",
+        "answer": "कुछ मामलों में, दावों को दाखिल करने से नवीनीकरण के दौरान उच्च प्रीमियम हो सकता है।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['/home/mw-user/Desktop/Test/NLP/App/Bay']
+INFO:     Uvicorn running on http://127.0.0.1:6000 (Press CTRL+C to quit)
+INFO:     Started reloader process [25555] using WatchFiles
+INFO:     Started server process [25561]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Encoding FAQ entries...
+Index and data saved successfully!
+Results:  [('Q: How do I choose the right insurance plan? A: Consider your needs, compare plans, check coverage options, and read reviews or consult an advisor.', tensor(0.3199)), ('Q: What is a premium? A: A premium is the amount you pay for your insurance policy, typically monthly or annually.', tensor(0.2907))]
+Processing time:  51.68890953063965
+Tokens used: 426
+INFO:     127.0.0.1:47838 - "POST /ai HTTP/1.1" 200 OK
+/usr/lib/python3.12/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
